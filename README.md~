@@ -1,4 +1,8 @@
-Requires pygame
+**dependencies
+Requires pygame and ros-indigo
 
-runs on ros-ingdigo
+**run
+    
+    'cd ~/catlin_make
+    'catkin_make
 
